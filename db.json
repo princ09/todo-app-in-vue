@@ -1,0 +1,82 @@
+{
+  "ToDoList": [
+    {
+      "id": "1",
+      "title": "Anime To Watch",
+      "todo": [
+        {
+          "name": "Death Note",
+          "completed": true
+        },
+        {
+          "name": "Naruto",
+          "completed": false
+        },
+        {
+          "name": "Fairy Tail",
+          "completed": true
+        },
+        {
+          "name": "Dragon Ball Super",
+          "completed": false
+        },
+        {
+          "name": "Hikigaya Hachiman",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Series",
+      "todo": [
+        {
+          "name": "Saw",
+          "completed": false
+        },
+        {
+          "name": "Scream",
+          "completed": false
+        },
+        {
+          "name": "Wrong Turn",
+          "completed": false
+        },
+        {
+          "name": "Hostel",
+          "completed": false
+        },
+        {
+          "name": "Final Destination",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Framework to Learn",
+      "todo": [
+        {
+          "name": "NodejS",
+          "completed": false
+        },
+        {
+          "name": "React",
+          "completed": false
+        },
+        {
+          "name": "Next.Js",
+          "completed": false
+        },
+        {
+          "name": "AngularJs",
+          "completed": false
+        },
+        {
+          "name": "Larvel",
+          "completed": false
+        }
+      ]
+    }
+  ]
+}
